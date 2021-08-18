@@ -1,7 +1,7 @@
 Déclaration d'adoption de la Constitution
 =================================
 
-Le(s) Ratifieur(s) nommé(s) ci-dessous adoptent par la présente les sections suivantes de la Constitution Holacracy v5.0 comme cadre de Gouvernance et de fonctionnement de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (l '***« Organisation »***) :
+Les Ratifieurs nommés ci-dessous adoptent par la présente les sections suivantes de la Constitution Holacracy v5.0 comme cadre de Gouvernance et de fonctionnement de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (l '***« Organisation »***) :
 
 #### [ X ] Article 1 : Structure organisationnelle
 
