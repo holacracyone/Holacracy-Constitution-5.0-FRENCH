@@ -1,70 +1,70 @@
-Constitution Adoption Declaration
+Déclaration d'adoption de la Constitution
 =================================
 
-The Ratifier(s) named below hereby adopt the following sections of the Holacracy Constitution v5.0 as the governance and operating framework for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”):
+Le(s) Ratifieur(s) nommé(s) ci-dessous adoptent par la présente les sections suivantes de la Constitution Holacracy v5.0 comme cadre de Gouvernance et de fonctionnement de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (l '***« Organisation »***) :
 
-#### [ X ] Article 1: Organizational Structure
+#### [ X ] Article 1 : Structure organisationnelle
 
-- Article 1 is required to use any other rules of the Constitution.
+- L'article 1 est nécessaire pour utiliser toute autre règle de la Constitution.
 
-#### [\_\_] Article 2: Rules of Cooperation
+#### [\_\_] Article 2 : Règles de coopération
 
-- If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Si cet article n'est pas adopté, les Leaders de Cercle peuvent préciser les devoirs d'un(e) Associé(e) en matière de coopération avec les autres lorsqu'il travaille au sein de son Cercle, à moins qu'un Leader de Cercle plus large ou les Ratifieurs n'en décident autrement.
 
-#### [\_\_] Article 3: Tactical Meetings
+#### [\_\_] Article 3 : Réunion de Triage
 
-- If this Article is not adopted, the Organization will continue its current meeting habits, until otherwise changed by a Circle Lead for their Circle, or until otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Si cet article n'est pas adopté, l'Organisation conservera ses habitudes de réunions existantes, jusqu'à ce qu'un Leader de Cercle en décide autrement pour son Cercle, ou jusqu'à ce qu'un Leader de Cercle plus large ou que les Ratifieurs en décident autrement.
 
-#### [\_\_] Article 4: Distributed Authority
+#### [\_\_] Article 4 : Autorité distribuée
 
-- If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- Si cet article n'est pas adopté, les Leaders de Rôle doivent aligner toutes leurs actions et décisions sur les orientations ou directives données par un Leader de Cercle de leur Cercle ou de tout Cercle plus large, sauf indication contraire d'un Leader de Cercle plus large ou des Ratifieurs.
 
-#### [\_\_] Article 5: Governance Process
+#### [\_\_] Article 5 : Processus de Gouvernance
 
-- If this Article is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
-
----
-
-**Adopted this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_ by:**
-
-*Ratifier Signatures:*
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
-
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
-
-Title:
+- Si cet article n'est pas adopté, les Leaders de Cercle sont les seuls à pouvoir modifier la Gouvernance au sein de leur Cercle à tout moment ou permettre à d'autres personnes à le faire et à pouvoir résoudre tout conflit d'interprétation de la Gouvernance de leur Cercle ; sauf indication contraire d'un Leader de Cercle plus large ou des Ratifieurs.
 
 ---
 
-**The Ratifiers hereby appoint the following individuals as initial Partners of the Organization, and those Partners hereby agree to use best efforts to abide by the terms of the Constitution to the extent adopted by the Organization.**
+**Adopté en date du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ par :**
 
-*Partner Signatures:*
+*Signatures des Ratifieurs :*
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nom :
+
+Titre :
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Name:
 
-x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Name:
+Title:
 
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Name:
 
+Title:
+
+---
+
+**Les Ratifieurs nomment par la présente les personnes suivantes comme Associés de l'Organisation lors de l’adoption et ces Associés acceptent par la présente de faire de leur mieux pour respecter les termes de la Constitution dans la mesure où elle est adoptée par l'Organisation.**
+
+*Signatures des Associés :*
+
 x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+Nom :
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nom :
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nom :
+
+x\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nom :
