@@ -122,7 +122,7 @@ Un Leader de Cercle peut juger de la valeur relative des efforts à produire par
 
 Lorsque la Gouvernance en dehors du Cercle fait référence au Cercle lui-même ou à l’un de ses Rôles, un Leader de Cercle peut mettre à jour cette référence pour qu’elle renvoie à un autre Rôle dans le Cercle. Cette clarification n'est pas considérée comme une modification de la Gouvernance de ce Cercle.
 
-#### 1.4.5 Amending the Circle Lead Role
+#### 1.4.5 Modifier le Rôle de Leader de Cercle
 
 Un Cercle ne peut pas modifier la Raison d'Être de son Rôle de Leader de Cercle, ni supprimer le Rôle.
 
