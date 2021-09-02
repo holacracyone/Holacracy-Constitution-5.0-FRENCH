@@ -200,7 +200,7 @@ Une Politique dans le Cercle peut définir un autre processus de réunion ou mod
 
 ## Article 4 : Autorité distribuée
 
-En tant que Leader de Rôle, vous avez l’autorité pour prendre toute action et toute décision visant à mettre en œuvre la Raison d’Être ou les Redevabilités de votre Rôle, tant que vous enfreignez aucune des règles définies dans la présente Constitution. Lorsque vous priorisez et choisissez parmi vos actions potentielles, vous pouvez agir selon votre propre jugement raisonnable de la valeur relative de chacune d'entre elles pour l'Organisation.
+En tant que Leader de Rôle, vous avez l’autorité pour prendre toute action et toute décision visant à mettre en œuvre la Raison d’Être ou les Redevabilités de votre Rôle, tant que vous n'enfreignez aucune des règles définies dans la présente Constitution. Lorsque vous priorisez et choisissez parmi vos actions potentielles, vous pouvez agir selon votre propre jugement raisonnable de la valeur relative de chacune d'entre elles pour l'Organisation.
 
 ### 4.1 Contraintes sur l’autorité
 
