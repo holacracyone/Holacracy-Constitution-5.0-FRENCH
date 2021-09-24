@@ -13,7 +13,7 @@ Chaque Associé peut s’appuyer sur les autorités accordées par la présente 
 *\*Ce terme n’existe pas en langue française mais pour plus de simplicité nous l’utilisons pour désigner les personnes qui ont le pouvoir de ratifier*
 
 
-## Article 1 : Structure Organisationnelle
+## Article 1 : Structure organisationnelle
 
 ### 1.1 Définition d’un Rôle
 
@@ -252,10 +252,10 @@ En tant qu’Associé(e), vous êtes autorisé(e) dans certains cas à prendre u
 
 Vous ne pouvez prendre une Initiative Individuelle que si toutes les conditions suivantes sont réunies :
 
-- **(a)** Vous agissez en toute bonne foi pour servir la Raison d’Être ou mettre en œuvre les Redevabilités d'un Rôle au sein de l'Organisation.
-- **(b)** Vous estimez que votre action permettra de résoudre ou d’éviter plus de Tensions pour l'Organisation qu'elle ne risque d'en créer.
-- **(c)** Votre action ne saurait engager l'Organisation dans des dépenses au-delà de ce que vous êtes déjà autorisé(e) à dépenser.
-- **(d)** Si votre action devait enfreindre des Politiques ou des Domaines, vous estimez que vous perdriez beaucoup de valeur en la retardant en vue d'obtenir une autorisation ou de modifier la Gouvernance.
+- **(a)** vous agissez en toute bonne foi pour servir la Raison d’Être ou mettre en œuvre les Redevabilités d'un Rôle au sein de l'Organisation.
+- **(b)** vous estimez que votre action permettra de résoudre ou d’éviter plus de Tensions pour l'Organisation qu'elle ne risque d'en créer.
+- **(c)** votre action ne saurait engager l'Organisation dans des dépenses au-delà de ce que vous êtes déjà autorisé(e) à dépenser.
+- **(d)** si votre action devait enfreindre des Politiques ou des Domaines, vous estimez que vous perdriez beaucoup de valeur en la retardant en vue d'obtenir une autorisation ou de modifier la Gouvernance.
 
 #### 4.3.2 Communication et restauration
 
@@ -278,9 +278,9 @@ Les Membres de Cercle d’un Cercle sont constitués du/des Associé(s) qui tien
 
 Tout Membre de Cercle d’un Cercle peut demander à tout moment la tenue d'une élection pour sélectionner ou remplacer une personne en tant que ***« Représentant de Cercle »*** du Cercle, afin d’aider à représenter ce Cercle au sein de tout Cercle plus large qui le contient. Le Représentant de Cercle élu tient un ***« Rôle de Représentant de Cercle »*** au sein du Cercle, dont la Raison d’Être est : “Les Tensions pertinentes à traiter dans un Cercle plus large y sont apportées et traitées”. Ce Rôle porte les Redevabilités suivantes :
 
-- **(a)** Chercher à comprendre les Tensions transmises par les Leaders de Rôle au sein du Cercle.
-- **(b)** Discerner les Tensions qu’il est pertinent de traiter au sein d’un Cercle plus large qui contient le Cercle.
-- **(c)** Traiter les Tensions au sein d'un Cercle plus large afin de lever les contraintes qui pèsent sur le Cercle.
+- **(a)** chercher à comprendre les Tensions transmises par les Leaders de Rôle au sein du Cercle.
+- **(b)** discerner les Tensions qu’il est pertinent de traiter au sein d’un Cercle plus large qui contient le Cercle.
+- **(c)** traiter les Tensions au sein d'un Cercle plus large afin de lever les contraintes qui pèsent sur le Cercle.
 
 Le Cercle doit appliquer le Processus d'Élection Intégrative défini dans la présente Constitution pour choisir son Représentant de Cercle, à moins qu'une Politique ne définisse un autre processus. Seuls les Membres de Cercle d’un Cercle sont éligibles pour le servir en tant que Représentant de Cercle. Toute personne qui sert en tant que Leader de Cercle ne peut pas en même temps servir comme Représentant du Cercle dans un même Cercle. Une seule personne à la fois peut servir en tant que Représentant de Cercle d’un Cercle, à moins qu'une Politique d’un Cercle qui le contient ne permette de faire autrement.
 
@@ -339,10 +339,10 @@ Si, à un moment donné, il apparaît clairement au Facilitateur qu'une Proposit
 
 Une préoccupation concernant l'adoption d'une Proposition ne constitue une Objection que si l'Objecteur peut fournir un argument raisonnable pour expliquer en quoi elle répond à chacun des quatre critères suivants :
 
-- **(a)** La Proposition réduirait la capacité du Cercle à exprimer sa Raison d’Être ou l’une de ses Redevabilités.
-- **(b)** La Proposition limiterait la capacité de l'Objecteur à exprimer la Raison d'Être ou l’une des Redevabilités d'un Rôle qu'il représente dans le Cercle, même dans le cas où l’Objecteur ne remplirait aucun autre Rôle dans l'Organisation.
-- **(c)** La préoccupation n'existe pas déjà, même en l'absence de la Proposition. Ainsi, une nouvelle Tension serait créée spécifiquement par l'adoption de la Proposition.
-- **(d)** La Proposition provoquerait inévitablement les effets de la préoccupation, ou, si elle risquait seulement de le faire, le Cercle n'aurait pas la possibilité de s'adapter avant qu'un tort significatif n'en résulte.
+- **(a)** la Proposition réduirait la capacité du Cercle à exprimer sa Raison d’Être ou l’une de ses Redevabilités.
+- **(b)** la Proposition limiterait la capacité de l'Objecteur à exprimer la Raison d'Être ou l’une des Redevabilités d'un Rôle qu'il représente dans le Cercle, même dans le cas où l’Objecteur ne remplirait aucun autre Rôle dans l'Organisation.
+- **(c)** la préoccupation n'existe pas déjà, même en l'absence de la Proposition. Ainsi, une nouvelle Tension serait créée spécifiquement par l'adoption de la Proposition.
+- **(d)** la Proposition provoquerait inévitablement les effets de la préoccupation, ou, si elle risquait seulement de le faire, le Cercle n'aurait pas la possibilité de s'adapter avant qu'un tort significatif n'en résulte.
 
 Toutefois, indépendamment des critères ci-dessus, une préoccupation compte toujours comme une Objection si l'adoption de la Proposition enfreint une règle de la présente Constitution.
 
@@ -356,10 +356,10 @@ Lorsqu'une Objection est invoquée parce que l'adoption d'une Proposition enfrei
 
 Lorsqu'on tente de résoudre une Objection, les règles suivantes s'appliquent :
 
-- **(a)** Le Facilitateur doit tester une Objection si un Membre de Cercle le demande. Si elle ne répond pas aux critères requis, le Facilitateur doit la rejeter.
-- **(b)** L'Objecteur doit tenter de trouver une modification à la Proposition qui résoudra l'Objection, tout en répondant à la Tension du Proposeur. Si le Facilitateur estime que l'Objecteur ne cherche pas de bonne foi à le faire, il doit considérer l'Objection comme abandonnée et la laisser tomber.
-- **(c)** Tout Membre de Cercle peut poser au Proposeur des questions de clarification sur la Tension sous-jacente à la Proposition, ou sur tout exemple que le Proposeur a partagé pour illustrer cette Tension. Si le Facilitateur estime que le Proposeur n'y répond pas de bonne foi, il doit considérer que la Proposition est abandonnée.
-- **(d)** L'Objecteur peut suggérer une modification de la Proposition et offrir des arguments raisonnables expliquant pourquoi celle-ci devrait résoudre la Tension. Puis, à la demande de l'Objecteur, le Proposeur doit présenter un argument raisonnable qui explique en quoi la Proposition modifiée ne résoudrait pas la Tension dans un des exemples qu’il a utilisé pour illustrer sa Tension. Si cela est nécessaire, le Proposeur peut ajouter un nouvel exemple pour illustrer en quoi la Proposition modifiée ne résoudrait pas la Tension. Si le Facilitateur estime que le Proposeur ne peut pas ou ne veut pas le faire, le Facilitateur doit considérer la Proposition comme abandonnée.
+- **(a)** le Facilitateur doit tester une Objection si un Membre de Cercle le demande. Si elle ne répond pas aux critères requis, le Facilitateur doit la rejeter.
+- **(b)** l'Objecteur doit tenter de trouver une modification à la Proposition qui résoudra l'Objection, tout en répondant à la Tension du Proposeur. Si le Facilitateur estime que l'Objecteur ne cherche pas de bonne foi à le faire, il doit considérer l'Objection comme abandonnée et la laisser tomber.
+- **(c)** tout Membre de Cercle peut poser au Proposeur des questions de clarification sur la Tension sous-jacente à la Proposition, ou sur tout exemple que le Proposeur a partagé pour illustrer cette Tension. Si le Facilitateur estime que le Proposeur n'y répond pas de bonne foi, il doit considérer que la Proposition est abandonnée.
+- **(d)** l'Objecteur peut suggérer une modification de la Proposition et offrir des arguments raisonnables expliquant pourquoi celle-ci devrait résoudre la Tension. Puis, à la demande de l'Objecteur, le Proposeur doit présenter un argument raisonnable qui explique en quoi la Proposition modifiée ne résoudrait pas la Tension dans un des exemples qu’il a utilisé pour illustrer sa Tension. Si cela est nécessaire, le Proposeur peut ajouter un nouvel exemple pour illustrer en quoi la Proposition modifiée ne résoudrait pas la Tension. Si le Facilitateur estime que le Proposeur ne peut pas ou ne veut pas le faire, le Facilitateur doit considérer la Proposition comme abandonnée.
 
 #### 5.3.5 Processus d'Élection Intégrative
 
@@ -437,7 +437,7 @@ Les points de l'ordre du jour sont traités un à la fois. Pour conduire une él
 
 Le Facilitateur doit mettre en œuvre le ***« Processus de Prise de Décision Intégrative »*** comme suit :
 
-- **(a) Présenter la Proposition :** le Proposeur peut dans un premier temps décrire la tension, puis il doit présenter une Proposition pour y répondre. À la demande du Proposeur, le Facilitateur peut autoriser les autres participants à l'aider à élaborer une Proposition. Toutefois, le Facilitateur doit veiller à ce que cette aide ait pour seul but de parvenir à une première Proposition pour répondre à la Tension du Proposeur. Le Facilitateur doit empêcher toute discussion sur d'autres Tensions ou préoccupations à propos de la Proposition.
+- **(a) Présenter la Proposition :** le Proposeur peut dans un premier temps décrire la Tension, puis il doit présenter une Proposition pour y répondre. À la demande du Proposeur, le Facilitateur peut autoriser les autres participants à l'aider à élaborer une Proposition. Toutefois, le Facilitateur doit veiller à ce que cette aide ait pour seul but de parvenir à une première Proposition pour répondre à la Tension du Proposeur. Le Facilitateur doit empêcher toute discussion sur d'autres Tensions ou préoccupations à propos de la Proposition.
 - **(b) Questions de clarification :** une fois que le Proposeur a fait une Proposition, les autres participants peuvent lui poser des questions pour mieux comprendre la Proposition ou la Tension sous-jacente. Le Proposeur peut répondre à chaque question, ou refuser de le faire. Le Facilitateur doit interrompre toute réaction ou opinion exprimée au sujet de la Proposition et aussi empêcher toute forme de discussion. Les participants peuvent également demander au Secrétaire de leur lire la Proposition ou de leur montrer la Gouvernance existante, au cours de cette étape ou à tout autre moment du processus où le participant est autorisé à s'exprimer ; le Secrétaire est alors tenu de le faire.
 - **(c) Tour de réaction :** chaque participant, à l'exception du Proposeur, peut ensuite, à son tour, partager ses réactions à propos de la Proposition. Le Facilitateur doit immédiatement mettre fin à tout commentaire en dehors du tour, à toute tentative d'engager un dialogue avec les autres et à toute réaction à d'autres réactions plutôt qu'à la Proposition.
 - **(d) Possibilité de clarifier :** le Proposeur peut ensuite faire part de ses commentaires en réponse aux réactions et apporter des modifications à la Proposition. Toutefois, le but premier d’une modification doit être de mieux répondre à la Tension du Proposeur et non aux Tensions soulevées par les autres participants. Le Facilitateur doit immédiatement mettre fin aux commentaires de quiconque autre que le Proposeur ou le Secrétaire. Toute intervention du Secrétaire ne peut porter que sur la saisie de la modification de la Proposition.
