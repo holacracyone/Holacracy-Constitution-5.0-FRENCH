@@ -25,7 +25,7 @@ Les Ratifieurs nommés ci-dessous adoptent par la présente les sections suivant
 
 ---
 
-**Adopté en date du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ par :**
+**Adoptée en date du \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ par :**
 
 *Signatures des Ratifieurs :*
 
