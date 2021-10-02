@@ -147,7 +147,7 @@ En tant qu’Associé(e), vous avez le devoir de faire preuve de transparence en
 
 ### 2.2 Devoir de traitement
 
-En tant qu’Associé(e), vous avez le devoir de traiter rapidement les messages et les demandes des Leaders de Rôle de l’organisation, comme suit :
+En tant qu’Associé(e), vous avez le devoir de traiter rapidement les messages et les demandes des Leaders de Rôle de l’Organisation, comme suit :
 
 - **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action. 
 - **(b) Requête pour un Projet ou une Prochaine-Action :** les autres peuvent vous demander de prendre une Prochaine-Action ou un Projet spécifique. Vous devez l'accepter et en faire le suivi si vous pensez que cela a du sens pour l’un de vos Rôles ou en tant qu’Associé(e) de l’Organisation, au moins en l’absence de priorités concurrentes. Si vous ne l’acceptez pas, vous devez soit expliquer votre raisonnement, soit proposer autre chose qui, selon vous, répondra au besoin du demandeur.
