@@ -311,7 +311,7 @@ Aucune autre décision n'est un résultat valide du Processus de Gouvernance d'u
 Une Politique ne peut être qu'un ou plusieurs des éléments suivants :
 
 - **(a)** une contrainte sur l'autorité d'un ou plusieurs des Rôles contenus dans le Cercle ; ou
-- **(b)** un octroi d'une autorité, que le Cercle ou le Leader de Cercle détient, à un ou plusieurs Rôles ; ou
+- **(b)** l'octroi d'une autorité, que le Cercle ou le Leader de Cercle détient, à un ou plusieurs Rôles ; ou
 - **(c)** un octroi d’autorité qui permet à des personnes ou à des Rôles non autorisés par ailleurs, de contrôler ou d'agir sur l'un des Domaines du Cercle, ou une contrainte sur la façon dont ils peuvent le faire lorsqu'ils y sont autorisés par ailleurs ; ou
 - **(d)** une règle qui modifie une règle ou un processus par défaut dans la présente Constitution, si ce changement est explicitement autorisé.
 
