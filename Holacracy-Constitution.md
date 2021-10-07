@@ -290,7 +290,7 @@ Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de
 
 #### 5.1.2 Facilitateur et Secrétaire
 
-Le Facilitateur est chargé de faciliter le Processus de Gouvernance de son Cercle. Le Secrétaire est chargé de saisir et de publier les résultats du Processus de Gouvernance de son Cercle et il détient un Domaine sur les registres de gouvernance du Cercle.
+Le Facilitateur est chargé de faciliter le Processus de Gouvernance de son Cercle. Le Secrétaire est chargé de saisir et de publier les résultats du Processus de Gouvernance de son Cercle et il détient un Domaine sur les registres de Gouvernance du Cercle.
 
 Tout Membre de Cercle d’un Cercle peut demander à tout moment la tenue d'une élection pour sélectionner ou remplacer une personne en tant que Facilitateur ou Secrétaire du Cercle. Le Cercle doit appliquer le Processus d'Élection Intégrative défini dans la présente Constitution pour choisir un Facilitateur ou un Secrétaire. Aucun Rôle ni aucune Politique ne peut affecter quelqu’un au Rôle de Facilitateur ou de Secrétaire, ni ne peut retirer une affectation par quelque autre moyen que ce soit, ni même ne peut modifier ce processus d’élection requis. Normalement, les seuls candidats éligibles pour ces élections sont les Membres de Cercle du Cercle. Une Politique du Cercle ou de tout Super-Cercle peut toutefois ajouter ou limiter les candidats éligibles.
 
