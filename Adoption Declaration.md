@@ -9,7 +9,7 @@ Les Ratifieurs nommés ci-dessous adoptent par la présente les sections suivant
 
 #### [\_\_] Article 2 : Règles de coopération
 
-- Si cet article n'est pas adopté, les Leaders de Cercle peuvent préciser les devoirs d'un(e) Associé(e) en matière de coopération avec les autres lorsqu'il travaille au sein de son Cercle, à moins qu'un Leader de Cercle plus large ou les Ratifieurs n'en décident autrement.
+- Si cet article n'est pas adopté, les Leaders de Cercle peuvent préciser les devoirs d'un(e) Associé(e) en matière de coopération avec les autres lorsqu'il/elle travaille au sein de son Cercle, à moins qu'un Leader de Cercle plus large ou les Ratifieurs n'en décident autrement.
 
 #### [\_\_] Article 3 : Réunion de Triage
 
