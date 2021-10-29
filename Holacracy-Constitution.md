@@ -19,7 +19,7 @@ Chaque Associé(e) peut s’appuyer sur les autorités accordées par la présen
 
 Un ***« Rôle »*** est une entité organisationnelle qu’une personne peut prendre en charge pour le compte de l'Organisation. La personne qui exerce un Rôle est un ***« Leader de Rôle »*** pour ce Rôle.
 
-La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants : 
+La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants :
 
 - **(a)** une ***« Raison d'Être »***, qui désigne une capacité, un potentiel ou un objectif que le Rôle va poursuivre ou exprimer.
 - **(b)** un ou plusieurs ***« Domaines »***, qui sont des actifs, des processus ou autres choses que le Rôle contrôle de façon exclusive et réglemente comme sa propriété, au service de sa Raison d’Être.
@@ -86,13 +86,13 @@ Une fois relié à un autre Cercle, le Rôle est considéré comme faisant égal
 
 Un Cercle peut délier un Rôle en supprimant la Politique qui l’a invité à se relier, ou par tout autre mécanisme défini par cette Politique. Un Rôle peut également choisir de se délier d’un Cercle auquel il est relié, à moins qu’une Politique au sein de son Cercle source ou agissant sur celui-ci n’en décide autrement. Une fois délié d’un Cercle, toute Gouvernance qui a été ajoutée à ce Rôle par ce Cercle est automatiquement supprimée.
 
-#### 1.3.5 Rôles de Facilitateur et de Secrétaire
+#### 1.3.5 Rôles de Facilitateur et de Scribe
 
 Chaque Cercle peut désigner une personne pour être son ***« Facilitateur »***. Le Facilitateur choisi remplit le ***« Rôle de Facilitateur »*** dans le Cercle, avec pour Raison d'Être : “Une Gouvernance de Cercle et des pratiques opérationnelles conformes à la Constitution”.
 
-Chaque Cercle peut désigner un ***« Secrétaire »***. Le Secrétaire choisi remplit le ***« Rôle de Secrétaire »*** dans le Cercle, avec pour Raison d'Être : “Gérer les réunions et les registres qui sont requis par la Constitution”.
+Chaque Cercle peut désigner un ***« Scribe »***. Le Scribe choisi remplit le ***« Rôle de Scribe »*** dans le Cercle, avec pour Raison d'Être : “Gérer les réunions et les registres qui sont requis par la Constitution”.
 
-Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de Facilitateur ou de Secrétaire, ainsi que modifier ou supprimer ces ajouts. Aucun Cercle ne peut modifier ou supprimer la Raison d'Être de l'un ou l'autre de ces Rôles, ni les Redevabilités ou les Domaines qui leur sont confiés par la présente Constitution.
+Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de Facilitateur ou de Scribe, ainsi que modifier ou supprimer ces ajouts. Aucun Cercle ne peut modifier ou supprimer la Raison d'Être de l'un ou l'autre de ces Rôles, ni les Redevabilités ou les Domaines qui leur sont confiés par la présente Constitution.
 
 ### 1.4 Leader de Cercle
 
@@ -149,7 +149,7 @@ En tant qu’Associé(e), vous avez le devoir de faire preuve de transparence en
 
 En tant qu’Associé(e), vous avez le devoir de traiter rapidement les messages et les demandes des Leaders de Rôle de l’Organisation, comme suit :
 
-- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action. 
+- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action.
 - **(b) Requête pour un Projet ou une Prochaine-Action :** les autres peuvent vous demander de prendre une Prochaine-Action ou un Projet spécifique. Vous devez l'accepter et en faire le suivi si vous pensez que cela a du sens pour l’un de vos Rôles ou en tant qu’Associé(e) de l’Organisation, au moins en l’absence de priorités concurrentes. Si vous ne l’acceptez pas, vous devez soit expliquer votre raisonnement, soit proposer autre chose qui, selon vous, répondra au besoin du demandeur.
 - **(c) Requête pour agir sur un Domaine :** les autres peuvent demander à agir sur un Domaine contrôlé par l’un de vos Rôles. Vous devez l’autoriser si vous ne voyez aucune raison qui fait que cela réduirait votre capacité à mettre en œuvre la Raison d'Être ou les Redevabilités de votre Rôle. Si vous voyez une raison de ce genre, vous devez l’expliquer au demandeur.
 
@@ -175,15 +175,15 @@ En tant qu’Associé(e), vous avez le devoir d'aligner votre comportement sur l
 
 ## Article 3: Réunion de Triage
 
-Tout(e) Associé(e) peut organiser une ***« Réunion de Triage »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Secrétaire de chaque Cercle est chargé d’organiser régulièrement des Réunions de Triage pour le Cercle.
+Tout(e) Associé(e) peut organiser une ***« Réunion de Triage »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Scribe de chaque Cercle est chargé d’organiser régulièrement des Réunions de Triage pour le Cercle.
 
 ### 3.1 Participation
 
-Pour les Réunions de Triage régulières, organisées par un Secrétaire de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions de Triage, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
+Pour les Réunions de Triage régulières, organisées par un Scribe de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions de Triage, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
 
 ### 3.2 Processus de réunion
 
-Le Facilitateur d'un Cercle est chargé de faciliter les Réunions de Triage régulières du Cercle et son Secrétaire est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion de Triage organisée par un autre que le Secrétaire du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
+Le Facilitateur d'un Cercle est chargé de faciliter les Réunions de Triage régulières du Cercle et son Scribe est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion de Triage organisée par un autre que le Scribe du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
 
 Sauf indication contraire via une Politique, la personne qui facilite la réunion doit suivre le processus suivant :
 
@@ -195,7 +195,7 @@ Sauf indication contraire via une Politique, la personne qui facilite la réunio
 - **(f) Triage des Points :** pour traiter chaque point de l'ordre du jour, le porteur du point peut faire des demandes à un autre participant en tant qu’Associé, ou à un Rôle que ce participant représente dans la réunion. Toutefois, les demandes à un Rôle ne peuvent être faites qu'au service d'un Rôle que le demandeur représente dans la réunion. La personne qui facilite la réunion doit gérer le temps alloué à chaque point de l'ordre du jour de façon à pouvoir traiter la totalité de l'ordre du jour et peut interrompre le traitement de tout point, dès qu’il a dépassé sa part de temps prévu.
 - **(g) Tour de clôture :** chaque participant partage à son tour une réflexion de clôture sur la réunion. Les réactions ne sont pas autorisées.
 
-Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions de Triage organisées par le Secrétaire ou par n’importe quel autre Rôle du Cercle.
+Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions de Triage organisées par le Scribe ou par n’importe quel autre Rôle du Cercle.
 
 
 ## Article 4 : Autorité distribuée
@@ -234,15 +234,15 @@ En tant qu’Associé(e), vous pouvez faire appel à votre jugement raisonnable 
 
 #### 4.2.1 Conflit d’interprétation
 
-En tant qu’Associé(e), votre interprétation de la présente Constitution et de la Gouvernance de l'Organisation peut parfois être en contradiction avec celle d'un(e) autre Associé(e). Lorsque cela se produit, l'une ou l'autre des parties peut demander au Secrétaire de tout Cercle concerné, de se prononcer sur l'interprétation à retenir et le Secrétaire est redevable pour interpréter à la demande la Constitution ainsi que tout ce qui relève et découle de son autorité. Une fois que le Secrétaire a répondu, chacun doit s'aligner sur la position donnée par le Secrétaire, aussi longtemps que le texte et le contexte concernés ne changent pas.
+En tant qu’Associé(e), votre interprétation de la présente Constitution et de la Gouvernance de l'Organisation peut parfois être en contradiction avec celle d'un(e) autre Associé(e). Lorsque cela se produit, l'une ou l'autre des parties peut demander au Scribe de tout Cercle concerné, de se prononcer sur l'interprétation à retenir et le Scribe est redevable pour interpréter à la demande la Constitution ainsi que tout ce qui relève et découle de son autorité. Une fois que le Scribe a répondu, chacun doit s'aligner sur la position donnée par le Scribe, aussi longtemps que le texte et le contexte concernés ne changent pas.
 
-Après avoir statué sur une interprétation, un Secrétaire peut publier la décision et la logique qui est derrière celle-ci. Si cette décision est publiée, le Secrétaire de ce Cercle ainsi que ceux de tous les Cercles qu'il contient, doivent faire en sorte de s'aligner sur cette logique pour toute décision future. Un Secrétaire peut toutefois la contredire lorsqu'une nouvelle circonstance rend caduque la logique, de façon convaincante.
+Après avoir statué sur une interprétation, un Scribe peut publier la décision et la logique qui est derrière celle-ci. Si cette décision est publiée, le Scribe de ce Cercle ainsi que ceux de tous les Cercles qu'il contient, doivent faire en sorte de s'aligner sur cette logique pour toute décision future. Un Scribe peut toutefois la contredire lorsqu'une nouvelle circonstance rend caduque la logique, de façon convaincante.
 
-Vous pouvez faire appel à l'interprétation d'un Secrétaire auprès du Secrétaire de n'importe quel Super-Cercle. Un Secrétaire de Super-Cercle peut rejeter l'interprétation de tout Secrétaire de Sous-Cercle.
+Vous pouvez faire appel à l'interprétation d'un Scribe auprès du Scribe de n'importe quel Super-Cercle. Un Scribe de Super-Cercle peut rejeter l'interprétation de tout Scribe de Sous-Cercle.
 
 #### 4.2.2 Rayer la Gouvernance invalide
 
-Tout(e) Associé(e) peut demander au Secrétaire d'un Cercle de se prononcer sur la validité de toute Gouvernance au sein de ce Cercle ou de tout Sous-Cercle de celui-ci. Si le Secrétaire conclut que la Gouvernance en question enfreint les règles de la présente Constitution, il doit la rayer des registres du Cercle. Après l’avoir fait, le Secrétaire doit rapidement informer l’ensemble des Associés qui occupent un Rôle dans le Cercle, à la fois de ce qu'il a supprimé et des raisons pour lesquelles il l’a fait.
+Tout(e) Associé(e) peut demander au Scribe d'un Cercle de se prononcer sur la validité de toute Gouvernance au sein de ce Cercle ou de tout Sous-Cercle de celui-ci. Si le Scribe conclut que la Gouvernance en question enfreint les règles de la présente Constitution, il doit la rayer des registres du Cercle. Après l’avoir fait, le Scribe doit rapidement informer l’ensemble des Associés qui occupent un Rôle dans le Cercle, à la fois de ce qu'il a supprimé et des raisons pour lesquelles il l’a fait.
 
 ### 4.3 Initiative Individuelle
 
@@ -288,11 +288,11 @@ Le Représentant de Cercle élu devient un Membre de Cercle de tout Cercle conte
 
 Un Cercle peut ajouter des Redevabilités ou des Domaines à son propre Rôle de Représentant de Cercle, ainsi que modifier ou supprimer ces ajouts. Aucun Cercle ne peut modifier ou supprimer la Raison d’Être de ce Rôle, ni les Redevabilités qui lui sont confiées par la présente Constitution.
 
-#### 5.1.2 Facilitateur et Secrétaire
+#### 5.1.2 Facilitateur et Scribe
 
-Le Facilitateur est chargé de faciliter le Processus de Gouvernance de son Cercle. Le Secrétaire est chargé de saisir et de publier les résultats du Processus de Gouvernance de son Cercle et il détient un Domaine sur les registres de Gouvernance du Cercle.
+Le Facilitateur est chargé de faciliter le Processus de Gouvernance de son Cercle. Le Scribe est chargé de saisir et de publier les résultats du Processus de Gouvernance de son Cercle et il détient un Domaine sur les registres de Gouvernance du Cercle.
 
-Tout Membre de Cercle d’un Cercle peut demander à tout moment la tenue d'une élection pour sélectionner ou remplacer une personne en tant que Facilitateur ou Secrétaire du Cercle. Le Cercle doit appliquer le Processus d'Élection Intégrative défini dans la présente Constitution pour choisir un Facilitateur ou un Secrétaire. Aucun Rôle ni aucune Politique ne peut affecter quelqu’un au Rôle de Facilitateur ou de Secrétaire, ni ne peut retirer une affectation par quelque autre moyen que ce soit, ni même ne peut modifier ce processus d’élection requis. Normalement, les seuls candidats éligibles pour ces élections sont les Membres de Cercle du Cercle. Une Politique du Cercle ou de tout Super-Cercle peut toutefois ajouter ou limiter les candidats éligibles.
+Tout Membre de Cercle d’un Cercle peut demander à tout moment la tenue d'une élection pour sélectionner ou remplacer une personne en tant que Facilitateur ou Scribe du Cercle. Le Cercle doit appliquer le Processus d'Élection Intégrative défini dans la présente Constitution pour choisir un Facilitateur ou un Scribe. Aucun Rôle ni aucune Politique ne peut affecter quelqu’un au Rôle de Facilitateur ou de Scribe, ni ne peut retirer une affectation par quelque autre moyen que ce soit, ni même ne peut modifier ce processus d’élection requis. Normalement, les seuls candidats éligibles pour ces élections sont les Membres de Cercle du Cercle. Une Politique du Cercle ou de tout Super-Cercle peut toutefois ajouter ou limiter les candidats éligibles.
 
 ### 5.2 Cadre de la Gouvernance
 
@@ -300,7 +300,7 @@ Via le Processus de Gouvernance d'un Cercle, ses Membres de Cercle peuvent :
 
 - **(a)** définir, modifier ou supprimer les Rôles du Cercle ; et
 - **(b)** définir, modifier ou supprimer les Politiques du Cercle ; et
-- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et 
+- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et
 - **(d)** déplacer les Rôles ou les Politiques d'un Sous-Cercle ou de tout Sous-Cercle de celui-ci vers le Cercle, à condition toutefois qu’ils ne soient plus en rapport avec la Raison d’Être et les Redevabilités de ce sous-cercle ; et
 - **(e)** tenir les élections pour tout Rôle élu au sein du Cercle.
 
@@ -319,7 +319,7 @@ Une Politique qui accorde ou limite l'autorité s'applique également - sauf ind
 
 ### 5.3 Modifier la Gouvernance
 
-Tout Membre de Cercle d’un Cercle peut initier le Processus de Gouvernance du Cercle en proposant un changement dans sa Gouvernance. Pour ce faire, le ***« Proposeur »***  doit d'abord partager sa ***« Proposition »*** par écrit à tous les autres Membres de Cercle, en utilisant tout canal de communication permis par le Secrétaire. Les autres Membres de Cercle peuvent alors poser des questions de clarification, faire part de leurs réactions et exprimer leurs préoccupations quant à l'adoption de la Proposition. Chaque préoccupation est une ***« Objection »*** si elle répond aux critères énoncés dans la présente Constitution, et la personne qui l'a soulevée est l'***« Objecteur »***.
+Tout Membre de Cercle d’un Cercle peut initier le Processus de Gouvernance du Cercle en proposant un changement dans sa Gouvernance. Pour ce faire, le ***« Proposeur »***  doit d'abord partager sa ***« Proposition »*** par écrit à tous les autres Membres de Cercle, en utilisant tout canal de communication permis par le Scribe. Les autres Membres de Cercle peuvent alors poser des questions de clarification, faire part de leurs réactions et exprimer leurs préoccupations quant à l'adoption de la Proposition. Chaque préoccupation est une ***« Objection »*** si elle répond aux critères énoncés dans la présente Constitution, et la personne qui l'a soulevée est l'***« Objecteur »***.
 
 Une fois que chaque Membre de Cercle a confirmé qu'il n'a pas d'Objection à une Proposition, celle-ci est adoptée et modifie la Gouvernance du Cercle. Si des Objections sont soulevées, le Proposeur et chaque Objecteur doivent trouver un moyen d'y répondre avant que le Cercle n'adopte la Proposition. À la suite de ce travail, tous les Membres de Cercle doivent avoir une nouvelle occasion de soulever des Objections. Un Cercle peut adopter une Politique qui définit un délai pour formuler des Objections, après quoi toute personne qui n'a pas répondu est considérée comme n'ayant pas d’Objection. Au cours du traitement par le Cercle d’une Proposition en mode asynchrone, un Membre de Cercle peut à tout moment demander au Proposeur de différer sa Proposition pour qu'elle soit traitée lors d’une réunion, en mode “temps réel”. Sauf disposition contraire par Politique, le traitement asynchrone s'arrête alors et la Proposition est considérée comme retirée jusqu'à ce qu'elle soit à nouveau proposée lors d'une réunion.
 
@@ -350,7 +350,7 @@ Toutefois, indépendamment des critères ci-dessus, une préoccupation compte to
 
 Le Facilitateur peut tester si une préoccupation constitue une Objection en posant des questions à l'Objecteur permettant de savoir si la préoccupation répond bien aux critères requis et de quelle manière. Pour évaluer les réponses, le Facilitateur peut seulement juger si l'Objecteur a présenté un argument pour chaque critère en suivant un raisonnement logique. Le Facilitateur ne peut pas porter de jugement sur l'exactitude d'un argument ou sur l'importance de le traiter.
 
-Lorsqu'une Objection est invoquée parce que l'adoption d'une Proposition enfreindrait la présente Constitution, le Facilitateur peut demander au Secrétaire du Cercle d'interpréter si c’est bien le cas. Si le Secrétaire statue que ce n'est pas le cas, le Facilitateur doit alors rejeter l'Objection.
+Lorsqu'une Objection est invoquée parce que l'adoption d'une Proposition enfreindrait la présente Constitution, le Facilitateur peut demander au Scribe du Cercle d'interpréter si c’est bien le cas. Si le Scribe statue que ce n'est pas le cas, le Facilitateur doit alors rejeter l'Objection.
 
 #### 5.3.4 Règles d'intégration
 
@@ -363,7 +363,7 @@ Lorsqu'on tente de résoudre une Objection, les règles suivantes s'appliquent :
 
 #### 5.3.5 Processus d'Élection Intégrative
 
-Tout Membre de Cercle peut également initier le Processus de Gouvernance du Cercle en demandant l'élection d'un Représentant de Cercle, d'un Facilitateur ou d'un Secrétaire. Le Facilitateur en exercice doit alors appliquer le ***« Processus d'Élection Intégrative »*** de la façon suivante :
+Tout Membre de Cercle peut également initier le Processus de Gouvernance du Cercle en demandant l'élection d'un Représentant de Cercle, d'un Facilitateur ou d'un Scribe. Le Facilitateur en exercice doit alors appliquer le ***« Processus d'Élection Intégrative »*** de la façon suivante :
 
 - **(a) Décrire le Rôle :** tout d'abord, le Facilitateur identifie le Rôle concerné et choisit la durée du mandat. Le Facilitateur peut également présenter d'autres informations en rapport avec l'élection. Au cours de cette étape et de la suivante, personne ne peut faire de commentaires sur les candidats éventuels.
 - **(b) Nommer des candidats :** chaque Membre de Cercle utilise un bulletin ou un autre forum privé pour nommer le candidat éligible qu’il estime être le plus apte à remplir le Rôle. Les Membres de Cercle doivent également marquer leur nom sur leur bulletin et personne ne peut s'abstenir, ni proposer plusieurs personnes.
@@ -380,14 +380,14 @@ Un Cercle peut adopter une Politique qui définit un délai pour nommer un candi
 
 Le Facilitateur d'un Cercle est chargé de déclencher de nouvelles élections pour les Rôles élus du Cercle à l'expiration de leur mandat.
 
-#### 5.3.6 Remplacement du Facilitateur et du Secrétaire
+#### 5.3.6 Remplacement du Facilitateur et du Scribe
 
-Un remplaçant peut tenir le Rôle de Facilitateur ou celui de Secrétaire tant que le Rôle est vacant. Un remplaçant peut également tenir le Rôle du Facilitateur habituel ou celui du Secrétaire habituel lorsque celui-ci n'est pas présent ou qu'il demande un remplaçant pour une raison quelconque.
+Un remplaçant peut tenir le Rôle de Facilitateur ou celui de Scribe tant que le Rôle est vacant. Un remplaçant peut également tenir le Rôle du Facilitateur habituel ou celui du Scribe habituel lorsque celui-ci n'est pas présent ou qu'il demande un remplaçant pour une raison quelconque.
 
 Lorsqu'un remplacement est nécessaire, le remplaçant est, dans cet ordre de préséance :
 
 - **(a)** une personne désignée par la personne qui se fait remplacer ; ou
-- **(b)** pour le Facilitateur, le Secrétaire du Cercle en exercice et pour le Secrétaire, le Facilitateur du Cercle en exercice ; ou
+- **(b)** pour le Facilitateur, le Scribe du Cercle en exercice et pour le Scribe, le Facilitateur du Cercle en exercice ; ou
 - **(c)** le Leader de Cercle du Cercle ou, s'il y a plusieurs Leaders de Cercle, le premier à se proposer remplaçant ; ou
 - **(d)** le premier Membre de Cercle qui se présente comme remplaçant.
 
@@ -395,11 +395,11 @@ Lorsqu'un remplacement est nécessaire, le remplaçant est, dans cet ordre de pr
 
 En plus du traitement des Propositions  en mode asynchrone en dehors des réunions, chaque Cercle tiendra régulièrement des ***« Réunions de Gouvernance »*** pour mettre en œuvre le Processus de Gouvernance du Cercle en temps réel.
 
-Le Secrétaire du Cercle est chargé d’organiser les Réunions de Gouvernance du Cercle. En plus des Réunions de Gouvernance régulières du Cercle, le Secrétaire est tenu d’organiser promptement des Réunions de Gouvernance spéciales à la demande d'un Membre de Cercle. Le demandeur peut préciser l'intention de la Réunion de Gouvernance spéciale et indiquer toute limite éventuelle sur ce que la réunion peut changer. Il peut s'agir de limiter la réunion à une Tension particulière, ou de la limiter à la modification de certains Rôles. Dans ce cas, le champ de cette Réunion de Gouvernance spéciale est restreint au traitement des Propositions correspondant à l'intention déclarée et aux changements dans les limites indiquées.
+Le Scribe du Cercle est chargé d’organiser les Réunions de Gouvernance du Cercle. En plus des Réunions de Gouvernance régulières du Cercle, le Scribe est tenu d’organiser promptement des Réunions de Gouvernance spéciales à la demande d'un Membre de Cercle. Le demandeur peut préciser l'intention de la Réunion de Gouvernance spéciale et indiquer toute limite éventuelle sur ce que la réunion peut changer. Il peut s'agir de limiter la réunion à une Tension particulière, ou de la limiter à la modification de certains Rôles. Dans ce cas, le champ de cette Réunion de Gouvernance spéciale est restreint au traitement des Propositions correspondant à l'intention déclarée et aux changements dans les limites indiquées.
 
 #### 5.4.1 Participation
 
-Tous les Membres de Cercle d’un Cercle peuvent participer à ses Réunions de Gouvernance. Les Facilitateur et Secrétaire en exercice peuvent également participer, même s'ils ne sont pas Membres de Cercle du Cercle. Dans ce cas, ils deviennent des Membres de Cercle temporaires pour la durée de la réunion.
+Tous les Membres de Cercle d’un Cercle peuvent participer à ses Réunions de Gouvernance. Les Facilitateur et Scribe en exercice peuvent également participer, même s'ils ne sont pas Membres de Cercle du Cercle. Dans ce cas, ils deviennent des Membres de Cercle temporaires pour la durée de la réunion.
 
 En tant que Représentant de Cercle pour un Cercle, vous pouvez inviter n'importe quel(le) Associé(e) à se joindre à la Réunion de Gouvernance de n'importe quel Cercle contenant directement votre Cercle. Vous ne pouvez inviter qu'un(e) Associé(e) à la fois et uniquement pour aider au traitement d'une Tension spécifique qui affecte le Cercle que vous représentez. Vous devez également ressentir cette Tension vous-même et aussi estimer qu'il est logique de la traiter dans le Cercle. Votre invité devient un Membre de Cercle temporaire pour la durée de la réunion ou jusqu'à ce que vous retiriez l'invitation. Votre invité peut représenter votre Cercle avec vous lors de la réunion, mais uniquement pendant le traitement de cette Tension spécifique.
 
@@ -407,9 +407,9 @@ En dehors de ce qui précède, personne d'autre ne peut participer aux Réunions
 
 #### 5.4.2 Préavis et durée
 
-Un Cercle ne peut tenir une Réunion de Gouvernance que si le Secrétaire a informé à l’avance tous les Membres du Cercle de la réunion avec un préavis raisonnable. En dehors de cela, aucun quorum n’est requis pour qu'un Cercle puisse tenir une Réunion de Gouvernance, à moins qu'une Politique n’en précise un.
+Un Cercle ne peut tenir une Réunion de Gouvernance que si le Scribe a informé à l’avance tous les Membres du Cercle de la réunion avec un préavis raisonnable. En dehors de cela, aucun quorum n’est requis pour qu'un Cercle puisse tenir une Réunion de Gouvernance, à moins qu'une Politique n’en précise un.
 
-Les Réunions de Gouvernance prennent fin lorsqu'elles atteignent la durée initialement prévue par le Secrétaire. Le Secrétaire peut décider de prolonger la durée de la réunion, mais seulement si aucun Membre de Cercle ne s’y oppose.
+Les Réunions de Gouvernance prennent fin lorsqu'elles atteignent la durée initialement prévue par le Scribe. Le Scribe peut décider de prolonger la durée de la réunion, mais seulement si aucun Membre de Cercle ne s’y oppose.
 
 Tout Membre de Cercle qui manque une partie ou la totalité d'une Réunion de Gouvernance est considéré comme ayant eu la possibilité de faire part de ses préoccupations concernant les Propositions qui y sont présentées. Ainsi, un Cercle peut adopter des Propositions lors d'une Réunion de Gouvernance sans tenir compte des membres absents.
 
@@ -438,15 +438,15 @@ Les points de l'ordre du jour sont traités un à la fois. Pour conduire une él
 Le Facilitateur doit mettre en œuvre le ***« Processus de Prise de Décision Intégrative »*** comme suit :
 
 - **(a) Présenter la Proposition :** le Proposeur peut dans un premier temps décrire la Tension, puis il doit présenter une Proposition pour y répondre. À la demande du Proposeur, le Facilitateur peut autoriser les autres participants à l'aider à élaborer une Proposition. Toutefois, le Facilitateur doit veiller à ce que cette aide ait pour seul but de parvenir à une première Proposition pour répondre à la Tension du Proposeur. Le Facilitateur doit empêcher toute discussion sur d'autres Tensions ou préoccupations à propos de la Proposition.
-- **(b) Questions de clarification :** une fois que le Proposeur a fait une Proposition, les autres participants peuvent lui poser des questions pour mieux comprendre la Proposition ou la Tension sous-jacente. Le Proposeur peut répondre à chaque question, ou refuser de le faire. Le Facilitateur doit interrompre toute réaction ou opinion exprimée au sujet de la Proposition et aussi empêcher toute forme de discussion. Les participants peuvent également demander au Secrétaire de leur lire la Proposition ou de leur montrer la Gouvernance existante, au cours de cette étape ou à tout autre moment du processus où le participant est autorisé à s'exprimer ; le Secrétaire est alors tenu de le faire.
+- **(b) Questions de clarification :** une fois que le Proposeur a fait une Proposition, les autres participants peuvent lui poser des questions pour mieux comprendre la Proposition ou la Tension sous-jacente. Le Proposeur peut répondre à chaque question, ou refuser de le faire. Le Facilitateur doit interrompre toute réaction ou opinion exprimée au sujet de la Proposition et aussi empêcher toute forme de discussion. Les participants peuvent également demander au Scribe de leur lire la Proposition ou de leur montrer la Gouvernance existante, au cours de cette étape ou à tout autre moment du processus où le participant est autorisé à s'exprimer ; le Scribe est alors tenu de le faire.
 - **(c) Tour de réaction :** chaque participant, à l'exception du Proposeur, peut ensuite, à son tour, partager ses réactions à propos de la Proposition. Le Facilitateur doit immédiatement mettre fin à tout commentaire en dehors du tour, à toute tentative d'engager un dialogue avec les autres et à toute réaction à d'autres réactions plutôt qu'à la Proposition.
-- **(d) Possibilité de clarifier :** le Proposeur peut ensuite faire part de ses commentaires en réponse aux réactions et apporter des modifications à la Proposition. Toutefois, le but premier d’une modification doit être de mieux répondre à la Tension du Proposeur et non aux Tensions soulevées par les autres participants. Le Facilitateur doit immédiatement mettre fin aux commentaires de quiconque autre que le Proposeur ou le Secrétaire. Toute intervention du Secrétaire ne peut porter que sur la saisie de la modification de la Proposition.
+- **(d) Possibilité de clarifier :** le Proposeur peut ensuite faire part de ses commentaires en réponse aux réactions et apporter des modifications à la Proposition. Toutefois, le but premier d’une modification doit être de mieux répondre à la Tension du Proposeur et non aux Tensions soulevées par les autres participants. Le Facilitateur doit immédiatement mettre fin aux commentaires de quiconque autre que le Proposeur ou le Scribe. Toute intervention du Scribe ne peut porter que sur la saisie de la modification de la Proposition.
 - **(e) Tour d'Objection :** chaque participant, à son tour, peut exprimer ses préoccupations quant à l'adoption de la Proposition. Le Facilitateur est tenu de noter ces préoccupations sous la forme d’Objections, ou bien de les tester pour voir si elles répondent aux critères définis pour les Objections et de noter celles qui y répondent. S'il n'y a pas d'Objection, la Proposition est adoptée. Lors du test des préoccupations et de la prise en note des Objections, le Facilitateur doit interrompre et empêcher toute forme de discussion ou de réaction de la part de quiconque autre que l'Objecteur.
 - **(f) Intégration :** s'il y a des Objections, le Facilitateur traite chacune d’entre elles l’une après l’autre, une à la fois. Pour chacune d’entre elles, les participants recherchent ensemble une modification possible de la Proposition pour résoudre l'Objection. Le Facilitateur indique qu'une Objection est résolue lorsque l’Objecteur confirme que la Proposition ainsi modifiée ne déclencherait plus l'Objection et que le Proposeur confirme que la Proposition modifiée répond toujours à la Tension. Durant cette étape, le Facilitateur est tenu d’appliquer les règles d'intégration décrites dans cet Article. Une fois toutes les Objections traitées, le Facilitateur repasse au tour d'Objection avec la Proposition modifiée.
 
 ### 5.5 Rupture de Processus
 
-Il y a ***« Rupture de Processus »*** lorsqu'un Cercle fait preuve de comportements ou de résultats qui enfreignent les règles de la présente Constitution. Le Facilitateur ou le Secrétaire d'un Cercle peut déclarer une Rupture de Processus dans son propre Cercle ou dans tout Sous-Cercle de celui-ci, en faisant appel à son jugement raisonnable. De plus, tout(e) Associé(e) concerné(e) peut demander au Facilitateur d'examiner un Sous-Cercle afin d'y détecter une éventuelle Rupture de Processus ; le Facilitateur est chargé de vérifier les réunions et les registres d’un Sous-Cercle sur demande et de déclarer une Rupture de Processus s'il en découvre une.
+Il y a ***« Rupture de Processus »*** lorsqu'un Cercle fait preuve de comportements ou de résultats qui enfreignent les règles de la présente Constitution. Le Facilitateur ou le Scribe d'un Cercle peut déclarer une Rupture de Processus dans son propre Cercle ou dans tout Sous-Cercle de celui-ci, en faisant appel à son jugement raisonnable. De plus, tout(e) Associé(e) concerné(e) peut demander au Facilitateur d'examiner un Sous-Cercle afin d'y détecter une éventuelle Rupture de Processus ; le Facilitateur est chargé de vérifier les réunions et les registres d’un Sous-Cercle sur demande et de déclarer une Rupture de Processus s'il en découvre une.
 
 #### 5.5.1 Rupture pour échec en Gouvernance
 
@@ -458,7 +458,7 @@ Lorsqu'une partie autorisée déclare une Rupture de Processus au sein d'un Cerc
 
 - **(a)** le Facilitateur acquiert l'autorité de juger de la logique et de la pertinence des arguments avancés pour valider les Propositions ou les Objections dans le Cercle ; et
 - **(b)** le Facilitateur du Super-Cercle se voit confier un Projet pour rétablir le Processus normal au sein du Cercle ; et
-- **(c)** le Facilitateur du Super-Cercle acquiert l'autorité pour remplacer le Facilitateur ou le Secrétaire du Cercle ; et
+- **(c)** le Facilitateur du Super-Cercle acquiert l'autorité pour remplacer le Facilitateur ou le Scribe du Cercle ; et
 - **(d)** le Facilitateur du Super-Cercle peut affecter un Leader de Cercle supplémentaire au Cercle pour la durée de la Rupture de Processus. Les décisions que cette personne prend en tant que Leader de Cercle l'emportent sur toute décision contradictoire prise par un autre Leader de Cercle.
 
 Ces autorités prennent fin dès que le processus nominal est rétabli dans le Cercle, selon l'appréciation du Facilitateur du Super-Cercle.
