@@ -19,7 +19,7 @@ Chaque Associé(e) peut s’appuyer sur les autorités accordées par la présen
 
 Un ***« Rôle »*** est une entité organisationnelle qu’une personne peut prendre en charge pour le compte de l'Organisation. La personne qui exerce un Rôle est un ***« Leader de Rôle »*** pour ce Rôle.
 
-La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants : 
+La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants :
 
 - **(a)** une ***« Raison d'Être »***, qui désigne une capacité, un potentiel ou un objectif que le Rôle va poursuivre ou exprimer.
 - **(b)** un ou plusieurs ***« Domaines »***, qui sont des actifs, des processus ou autres choses que le Rôle contrôle de façon exclusive et réglemente comme sa propriété, au service de sa Raison d’Être.
@@ -149,7 +149,7 @@ En tant qu’Associé(e), vous avez le devoir de faire preuve de transparence en
 
 En tant qu’Associé(e), vous avez le devoir de traiter rapidement les messages et les demandes des Leaders de Rôle de l’Organisation, comme suit :
 
-- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action. 
+- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action.
 - **(b) Requête pour un Projet ou une Prochaine-Action :** les autres peuvent vous demander de prendre une Prochaine-Action ou un Projet spécifique. Vous devez l'accepter et en faire le suivi si vous pensez que cela a du sens pour l’un de vos Rôles ou en tant qu’Associé(e) de l’Organisation, au moins en l’absence de priorités concurrentes. Si vous ne l’acceptez pas, vous devez soit expliquer votre raisonnement, soit proposer autre chose qui, selon vous, répondra au besoin du demandeur.
 - **(c) Requête pour agir sur un Domaine :** les autres peuvent demander à agir sur un Domaine contrôlé par l’un de vos Rôles. Vous devez l’autoriser si vous ne voyez aucune raison qui fait que cela réduirait votre capacité à mettre en œuvre la Raison d'Être ou les Redevabilités de votre Rôle. Si vous voyez une raison de ce genre, vous devez l’expliquer au demandeur.
 
@@ -173,17 +173,17 @@ En tant qu’Associé(e), vous pouvez proposer un Accord Relationnel à un(e) au
 En tant qu’Associé(e), vous avez le devoir d'aligner votre comportement sur les Accords Relationnels écrits que vous avez conclus. Toute personne qui facilite une réunion ou un processus pour l'Organisation peut également faire respecter ces Accords Relationnels au cours de cette réunion ou de ce processus, tant qu'ils ne sont pas en conflit avec ce qui est défini dans cette Constitution.
 
 
-## Article 3: Réunion de Triage
+## Article 3: Réunion Tactique
 
-Tout(e) Associé(e) peut organiser une ***« Réunion de Triage »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Secrétaire de chaque Cercle est chargé d’organiser régulièrement des Réunions de Triage pour le Cercle.
+Tout(e) Associé(e) peut organiser une ***« Réunion Tactique »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Secrétaire de chaque Cercle est chargé d’organiser régulièrement des Réunions Tactiques pour le Cercle.
 
 ### 3.1 Participation
 
-Pour les Réunions de Triage régulières, organisées par un Secrétaire de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions de Triage, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
+Pour les Réunions Tactiques régulières, organisées par un Secrétaire de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions Tactiques, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
 
 ### 3.2 Processus de réunion
 
-Le Facilitateur d'un Cercle est chargé de faciliter les Réunions de Triage régulières du Cercle et son Secrétaire est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion de Triage organisée par un autre que le Secrétaire du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
+Le Facilitateur d'un Cercle est chargé de faciliter les Réunions Tactiques régulières du Cercle et son Secrétaire est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion Tactique organisée par un autre que le Secrétaire du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
 
 Sauf indication contraire via une Politique, la personne qui facilite la réunion doit suivre le processus suivant :
 
@@ -195,7 +195,7 @@ Sauf indication contraire via une Politique, la personne qui facilite la réunio
 - **(f) Triage des Points :** pour traiter chaque point de l'ordre du jour, le porteur du point peut faire des demandes à un autre participant en tant qu’Associé, ou à un Rôle que ce participant représente dans la réunion. Toutefois, les demandes à un Rôle ne peuvent être faites qu'au service d'un Rôle que le demandeur représente dans la réunion. La personne qui facilite la réunion doit gérer le temps alloué à chaque point de l'ordre du jour de façon à pouvoir traiter la totalité de l'ordre du jour et peut interrompre le traitement de tout point, dès qu’il a dépassé sa part de temps prévu.
 - **(g) Tour de clôture :** chaque participant partage à son tour une réflexion de clôture sur la réunion. Les réactions ne sont pas autorisées.
 
-Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions de Triage organisées par le Secrétaire ou par n’importe quel autre Rôle du Cercle.
+Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions Tactiques organisées par le Secrétaire ou par n’importe quel autre Rôle du Cercle.
 
 
 ## Article 4 : Autorité distribuée
@@ -300,7 +300,7 @@ Via le Processus de Gouvernance d'un Cercle, ses Membres de Cercle peuvent :
 
 - **(a)** définir, modifier ou supprimer les Rôles du Cercle ; et
 - **(b)** définir, modifier ou supprimer les Politiques du Cercle ; et
-- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et 
+- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et
 - **(d)** déplacer les Rôles ou les Politiques d'un Sous-Cercle ou de tout Sous-Cercle de celui-ci vers le Cercle, à condition toutefois qu’ils ne soient plus en rapport avec la Raison d’Être et les Redevabilités de ce sous-cercle ; et
 - **(e)** tenir les élections pour tout Rôle élu au sein du Cercle.
 
