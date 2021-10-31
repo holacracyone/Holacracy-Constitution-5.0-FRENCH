@@ -272,7 +272,7 @@ Pour faire évoluer la Gouvernance d'un Cercle, il faut appliquer le ***« Proce
 
 Chaque Cercle dispose d'un groupe de ***« Membres de Cercle »*** qui peuvent représenter les Rôles du Cercle dans son Processus de Gouvernance.
 
-Les Membres de Cercle d’un Cercle sont constitués du/des Associés qui tiennent le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
+Les Membres de Cercle d’un Cercle sont constitués des Associés qui tiennent le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
 
 #### 5.1.1 Représentant de Cercle
 
