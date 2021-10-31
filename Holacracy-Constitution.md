@@ -19,7 +19,7 @@ Chaque Associé(e) peut s’appuyer sur les autorités accordées par la présen
 
 Un ***« Rôle »*** est une entité organisationnelle qu’une personne peut prendre en charge pour le compte de l'Organisation. La personne qui exerce un Rôle est un ***« Leader de Rôle »*** pour ce Rôle.
 
-La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants : 
+La définition d’un Rôle comprend un nom descriptif et un ou plusieurs des éléments suivants :
 
 - **(a)** une ***« Raison d'Être »***, qui désigne une capacité, un potentiel ou un objectif que le Rôle va poursuivre ou exprimer.
 - **(b)** un ou plusieurs ***« Domaines »***, qui sont des actifs, des processus ou autres choses que le Rôle contrôle de façon exclusive et réglemente comme sa propriété, au service de sa Raison d’Être.
@@ -116,7 +116,7 @@ Lorsqu'un Rôle n'est attribué qu'à des personnes qui ne sont pas des Associé
 
 #### 1.4.3 Définir les Priorités et les Stratégies
 
-Un Leader de Cercle peut juger de la valeur relative des efforts à produire par le Cercle afin de résoudre les conflits de priorité entre les Rôles. Il peut également définir une ou plusieurs ***« Stratégie(s) »*** pour le Cercle, heuristique(s) pour aider à établir les priorités dans le Cercle.
+Un Leader de Cercle peut juger de la valeur relative des efforts à produire par le Cercle afin de résoudre les conflits de priorité entre les Rôles. Il peut également définir une ou plusieurs ***« Stratégies »*** pour le Cercle, heuristiques pour aider à établir les priorités dans le Cercle.
 
 #### 1.4.4 Router les références externes
 
@@ -149,7 +149,7 @@ En tant qu’Associé(e), vous avez le devoir de faire preuve de transparence en
 
 En tant qu’Associé(e), vous avez le devoir de traiter rapidement les messages et les demandes des Leaders de Rôle de l’Organisation, comme suit :
 
-- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action. 
+- **(a) Demande de clarification :** les autres peuvent vous demander de clarifier les prochaines étapes pour n’importe lequel de vos Projets ou pour toute Redevabilité de vos Rôles. Vous devez alors identifier et communiquer une Prochaine-Action pour le (ou la) faire avancer, s’il y en a. S’il n’y en a pas, vous devez alors indiquer ce que vous attendez avant de pouvoir prendre une Prochaine-Action.
 - **(b) Requête pour un Projet ou une Prochaine-Action :** les autres peuvent vous demander de prendre une Prochaine-Action ou un Projet spécifique. Vous devez l'accepter et en faire le suivi si vous pensez que cela a du sens pour l’un de vos Rôles ou en tant qu’Associé(e) de l’Organisation, au moins en l’absence de priorités concurrentes. Si vous ne l’acceptez pas, vous devez soit expliquer votre raisonnement, soit proposer autre chose qui, selon vous, répondra au besoin du demandeur.
 - **(c) Requête pour agir sur un Domaine :** les autres peuvent demander à agir sur un Domaine contrôlé par l’un de vos Rôles. Vous devez l’autoriser si vous ne voyez aucune raison qui fait que cela réduirait votre capacité à mettre en œuvre la Raison d'Être ou les Redevabilités de votre Rôle. Si vous voyez une raison de ce genre, vous devez l’expliquer au demandeur.
 
@@ -272,7 +272,7 @@ Pour faire évoluer la Gouvernance d'un Cercle, il faut appliquer le ***« Proce
 
 Chaque Cercle dispose d'un groupe de ***« Membres de Cercle »*** qui peuvent représenter les Rôles du Cercle dans son Processus de Gouvernance.
 
-Les Membres de Cercle d’un Cercle sont constitués du/des Associé(s) qui tienne(nt) le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
+Les Membres de Cercle d’un Cercle sont constitués du/des Associés qui tiennent le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
 
 #### 5.1.1 Représentant de Cercle
 
@@ -300,7 +300,7 @@ Via le Processus de Gouvernance d'un Cercle, ses Membres de Cercle peuvent :
 
 - **(a)** définir, modifier ou supprimer les Rôles du Cercle ; et
 - **(b)** définir, modifier ou supprimer les Politiques du Cercle ; et
-- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et 
+- **(c)** déplacer les Rôles ou les Politiques du Cercle vers un Sous-Cercle, ou  tout Sous-Cercle de celui-ci, à condition toutefois qu’ils soient en rapport avec la Raison d’Être ou les Redevabilités de ce Sous-Cercle ; et
 - **(d)** déplacer les Rôles ou les Politiques d'un Sous-Cercle ou de tout Sous-Cercle de celui-ci vers le Cercle, à condition toutefois qu’ils ne soient plus en rapport avec la Raison d’Être et les Redevabilités de ce sous-cercle ; et
 - **(e)** tenir les élections pour tout Rôle élu au sein du Cercle.
 
