@@ -173,17 +173,17 @@ En tant qu’Associé(e), vous pouvez proposer un Accord Relationnel à un(e) au
 En tant qu’Associé(e), vous avez le devoir d'aligner votre comportement sur les Accords Relationnels écrits que vous avez conclus. Toute personne qui facilite une réunion ou un processus pour l'Organisation peut également faire respecter ces Accords Relationnels au cours de cette réunion ou de ce processus, tant qu'ils ne sont pas en conflit avec ce qui est défini dans cette Constitution.
 
 
-## Article 3: Réunion Tactique
+## Article 3: Réunion de Triage
 
-Tout(e) Associé(e) peut organiser une ***« Réunion Tactique »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Secrétaire de chaque Cercle est chargé d’organiser régulièrement des Réunions Tactiques pour le Cercle.
+Tout(e) Associé(e) peut organiser une ***« Réunion de Triage »*** pour aider les Associés à s'engager mutuellement dans leurs responsabilités et leurs devoirs. Par ailleurs, le Secrétaire de chaque Cercle est chargé d’organiser régulièrement des Réunions de Triage pour le Cercle.
 
 ### 3.1 Participation
 
-Pour les Réunions Tactiques régulières, organisées par un Secrétaire de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions Tactiques, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
+Pour les Réunions de Triage régulières, organisées par un Secrétaire de Cercle, tous les Rôles du Cercle sont invités, sauf si une Politique en dispose autrement. Pour les autres Réunions de Triage, l’Associé(e) qui organise la réunion doit préciser les Rôles invités à cette réunion. Tous les Associés agissant en tant que Leader de Rôle de ces Rôles sont alors invités à participer et à représenter ces Rôles, à moins que l’organisateur ne restreigne l'invitation qu'à un sous-ensemble de Leaders de Rôle pour un Rôle.
 
 ### 3.2 Processus de réunion
 
-Le Facilitateur d'un Cercle est chargé de faciliter les Réunions Tactiques régulières du Cercle et son Secrétaire est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion Tactique organisée par un autre que le Secrétaire du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
+Le Facilitateur d'un Cercle est chargé de faciliter les Réunions de Triage régulières du Cercle et son Secrétaire est chargé de saisir et publier les résultats de ces réunions. Dans le cas d’une Réunion de Triage organisée par un autre que le Secrétaire du Cercle, l’organisateur doit faciliter la réunion et en saisir les résultats, ou confier cela à un volontaire ou à un Rôle approprié pour le faire.
 
 Sauf indication contraire via une Politique, la personne qui facilite la réunion doit suivre le processus suivant :
 
@@ -195,7 +195,7 @@ Sauf indication contraire via une Politique, la personne qui facilite la réunio
 - **(f) Triage des Points :** pour traiter chaque point de l'ordre du jour, le porteur du point peut faire des demandes à un autre participant en tant qu’Associé, ou à un Rôle que ce participant représente dans la réunion. Toutefois, les demandes à un Rôle ne peuvent être faites qu'au service d'un Rôle que le demandeur représente dans la réunion. La personne qui facilite la réunion doit gérer le temps alloué à chaque point de l'ordre du jour de façon à pouvoir traiter la totalité de l'ordre du jour et peut interrompre le traitement de tout point, dès qu’il a dépassé sa part de temps prévu.
 - **(g) Tour de clôture :** chaque participant partage à son tour une réflexion de clôture sur la réunion. Les réactions ne sont pas autorisées.
 
-Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions Tactiques organisées par le Secrétaire ou par n’importe quel autre Rôle du Cercle.
+Une Politique dans le Cercle peut définir un autre processus de réunion ou modifier le processus par défaut pour les Réunions de Triage organisées par le Secrétaire ou par n’importe quel autre Rôle du Cercle.
 
 
 ## Article 4 : Autorité distribuée
