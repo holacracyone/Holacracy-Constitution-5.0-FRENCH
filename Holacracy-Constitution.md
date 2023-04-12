@@ -33,7 +33,7 @@ En tant que Leader de Rôle, vous avez les responsabilités suivantes :
 
 #### 1.2.1 Gérer les Tensions
 
-Vous êtes responsable de comparer l’expression réelle de la Raison d'Être et des Redevabilités de votre Rôle, à votre vision de leur manifestation potentielle idéale, afin d'identifier les écarts entre les deux (chaque écart est une ***« Tension »***). Vous êtes ensuite chargé(e) de tenter de résoudre ces Tensions.
+Vous êtes responsable de comparer l’expression réelle de la Raison d'Être et des Redevabilités de votre Rôle, à votre vision de leur manifestation potentielle idéale, afin d'identifier les écarts entre les deux (chaque écart est une ***« Tension »***). Vous êtes ensuite chargé(e) d'essayer de concrétiser votre vision en prenant des initiatives pour réduire ou résoudre ces tensions.
 
 #### 1.2.2 Gérer la Raison d'Être et les Redevabilités
 
