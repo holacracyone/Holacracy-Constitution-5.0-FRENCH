@@ -2,16 +2,13 @@
 
 ## Préambule
 
-Les ***« Ratifieurs\* »*** adoptent la présente ***« Constitution »*** comme structure d'autorité formelle de l’ ***« Organisation »*** concernée. Ce faisant, les Ratifieurs transfèrent leur pouvoir de gouverner et de diriger l'Organisation aux règles et processus décrits dans cette Constitution, à l'exception toutefois de tout pouvoir sur lequel les Ratifieurs n'ont pas autorité. Les Ratifieurs ou leurs successeurs peuvent amender ou abroger cette Constitution en exerçant l’autorité avec laquelle ils l’ont adoptée ; tout amendement doit être fait par écrit.
+Les ***« Signataires »*** adoptent la présente ***« Constitution »*** comme structure d'autorité formelle de l’ ***« Organisation »*** concernée. Ce faisant, les Signataires transfèrent leur pouvoir de gouverner et de diriger l'Organisation aux règles et processus décrits dans cette Constitution, à l'exception toutefois de tout pouvoir sur lequel les Signataires n'ont pas autorité. Les Signataires ou leurs successeurs peuvent amender ou abroger cette Constitution en exerçant l’autorité avec laquelle ils l’ont adoptée ; tout amendement doit être fait par écrit.
 
 Les politiques et systèmes existants, qui étaient en place dans l'Organisation avant l'adoption de la présente Constitution, restent en vigueur après l’adoption, mais ils ne peuvent être étendus ou modifiés que dans le cadre des autorités et processus définis dans la présente Constitution. Ces politiques et systèmes ainsi hérités perdent tout leur poids et autorité dès que les processus de cette Constitution créent quelque chose qui les remplace ou les contredit.
 
-L'Organisation peut désigner d'autres ***« Associés »***, en plus des Ratifieurs, pour aider dans sa gouvernance et ses opérations, à condition que ces Associés aient également accepté de se conformer à tous les termes de la présente Constitution. Dans ce cadre, l'Organisation peut définir la manière dont elle accorde ou retire le statut d’Associé, sauf indication contraire des Ratifieurs et les Ratifieurs peuvent préciser qui sont les Associés au moment de l’adoption.
+L'Organisation peut désigner d'autres ***« Associés »***, en plus des Signataires, pour aider dans sa gouvernance et ses opérations, à condition que ces Associés aient également accepté de se conformer à tous les termes de la présente Constitution. Dans ce cadre, l'Organisation peut définir la manière dont elle accorde ou retire le statut d’Associé, sauf indication contraire des Signataires et les Signataires peuvent préciser qui sont les Associés au moment de l’adoption.
 
-Chaque Associé(e) peut s’appuyer sur les autorités accordées par la présente Constitution, dans la mesure où les Ratifieurs détenaient ces autorités avant son adoption. Toutes les responsabilités et contraintes d’un(e) Associé(e) découlent de la présente Constitution et des résultats de ses processus, ainsi que de toute obligation légale de l’Associé(e) envers l'Organisation lorsqu'il/elle agit au nom de cette dernière. Toute attente ou contrainte implicite n’a aucun poids sur un(e) Associé(e), de même que tout ordre émis en dehors de l’autorité accordée par la présente Constitution.
-
-*\*Ce terme n’existe pas en langue française mais pour plus de simplicité nous l’utilisons pour désigner les personnes qui ont le pouvoir de ratifier*
-
+Chaque Associé(e) peut s’appuyer sur les autorités accordées par la présente Constitution, dans la mesure où les Signataires détenaient ces autorités avant son adoption. Toutes les responsabilités et contraintes d’un(e) Associé(e) découlent de la présente Constitution et des résultats de ses processus, ainsi que de toute obligation légale de l’Associé(e) envers l'Organisation lorsqu'il/elle agit au nom de cette dernière. Toute attente ou contrainte implicite n’a aucun poids sur un(e) Associé(e), de même que tout ordre émis en dehors de l’autorité accordée par la présente Constitution.
 
 ## Article 1 : Structure organisationnelle
 
@@ -76,7 +73,7 @@ La délégation d'un Domaine d’un Cercle à l’un de ces Rôles ne confère �
 
 Le Cercle le plus large qui détient la Raison d'Être de toute l'Organisation est son ***« Cercle d'Ancrage »***. Le Cercle d'Ancrage détient toutes les autorités et tous les Domaines que l'Organisation contrôle elle-même et n'a pas de Super-Cercle. Le Cercle d'Ancrage peut modifier sa propre Raison d'Être ou clarifier ses propres Redevabilités au moyen d’une Politique.
 
-Les Ratifieurs peuvent définir une structure initiale et toute autre Gouvernance au sein du Cercle d'Ancrage, à l’adoption de cette Constitution.
+Les Signataires peuvent définir une structure initiale et toute autre Gouvernance au sein du Cercle d'Ancrage, à l’adoption de cette Constitution.
 
 #### 1.3.4 Relier un Rôle à un Cercle
 
